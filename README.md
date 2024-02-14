@@ -45,7 +45,7 @@ If you have any suggestions or improvements, feel free to raise an issue or cont
 
 If you have any questions or need further information about the case study, please contact the project maintainer:
 
-- Name: TWIZEYIMANA Eric
-- Email: erictwiz6@gmail.com
+- Name: Justin JABO.
+- Email: jabojustin250@gmail.com
 
 Enjoy exploring the Grocery Store Forecasting Challenge for Azubian case study!
